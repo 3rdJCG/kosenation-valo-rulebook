@@ -8,7 +8,7 @@ date: \the\year/\the\month/\the\day
 ## 運営責任者
 - 3rdJCG [@3rdJCG](https://twitter.com/3rdJCG)
 - Unknown [@Unknown_KKKSG](https://twitter.com/Unknown_KKKSG)
-- Yana`` [@yanasaann](https://twitter.com/yanasaann)
+- Yana`` [@_yanasaann](https://twitter.com/yanasaann)
 
 ## 本大会について
 本大会は完全非公式大会であり、資金提供や提携などは一切ない。

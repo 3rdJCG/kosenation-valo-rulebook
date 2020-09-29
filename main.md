@@ -6,9 +6,9 @@ date: \the\year/\the\month/\the\day
 
 # 大会運営
 ## 運営責任者
-- 3rdJCG ([@3rdJCG](https://twitter.com/3rdJCG))
-- Unknown ([@Unknown_KKKSG](https://twitter.com/Unknown_KKKSG))
-- Yana`` ([@yanasaann](https://twitter.com/yanasaann))
+- 3rdJCG [@3rdJCG](https://twitter.com/3rdJCG)
+- Unknown [@Unknown_KKKSG](https://twitter.com/Unknown_KKKSG)
+- Yana`` [@yanasaann](https://twitter.com/yanasaann)
 
 ## 本大会について
 本大会は完全非公式大会であり、資金提供や提携などは一切ない。
@@ -60,4 +60,4 @@ date: \the\year/\the\month/\the\day
 - ゲームサーバーのメンテナンスや不具合など、その他やむを得ない障害が発生した場合、大会や試合を延期・中止する可能性がある。
 - 運営の方で配信を行うが、個人で行う場合は2分以上配信遅延をすること。
 - 個人配信や選手間での問題があった場合、運営側は一切の責任を負わない。
-- 質問がある場合は、大会公式Twitter([@KOSENation](https://twitter.com/KOSENation))に連絡をすること。
+- 質問がある場合は、大会公式Twitter[@KOSENation](https://twitter.com/KOSENation)に連絡をすること。

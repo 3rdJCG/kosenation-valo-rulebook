@@ -28,7 +28,7 @@ jobs:
     - name: Commit files
       run: |
         git add main.pdf
-        git add policy.md
+        git add policy.pdf
         git config --local user.email "3rdJCG@gmail.com"
         git config --local user.name "3rdJCG"
         git commit -m "Generate main.pdf" -a

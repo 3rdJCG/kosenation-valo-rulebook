@@ -1,5 +1,5 @@
 ---
-title: 'KOSENation CUP VALORANT ルールブック'
+title: 'KOSENation CUP VALORANT ポリシー'
 author: '3rdJCG, UnknownSP, ayana'
 date: \the\year/\the\month/\the\day
 ---

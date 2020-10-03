@@ -1,4 +1,4 @@
-# kosenation-valo-rulebook
+# kosenation-valo-rulebook ![test](https://github.com/3rdJCG/kosenation-valo-rulebook/workflows/test/badge.svg)
 KOSENation CUP VALORANTの公式ルールブックリポジトリ
 
 ## CIについて

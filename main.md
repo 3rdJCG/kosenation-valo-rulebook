@@ -6,6 +6,7 @@ date: \the\year/\the\month/\the\day
 
 # 大会運営
 ## 運営責任者
+
 - 3rdJCG [@3rdJCG](https://twitter.com/3rdJCG)
 - Unknown [@Unknown_KKKSG](https://twitter.com/Unknown_KKKSG)
 - ayana`` [@yanasaann](https://twitter.com/yanasaann)
@@ -16,11 +17,13 @@ date: \the\year/\the\month/\the\day
 # 日時
 ## 開催日
 本大会の開催日は以下の二日間とする。
+
 - 2020/11/7 (土曜)
 - 2020/11/8 (日曜)
 
 ## 時刻
 開催予定時刻は以下の通りとする。
+
 - 10:00～17:00
 
 この時刻は試合の進行状況に応じて変更される可能性がある。

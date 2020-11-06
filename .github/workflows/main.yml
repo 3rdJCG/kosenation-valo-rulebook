@@ -20,18 +20,18 @@ jobs:
     - name: Generate rulebook PDF
       uses: 3rdJCG/mdtopdf-action@0.1.0
       with:
-        root_file: main.md
+        root_file: rulebook.md
     - name: Generate policy PDF
       uses: 3rdJCG/mdtopdf-action@0.1.0
       with:
         root_file: policy.md
     - name: Commit files
       run: |
-        git add main.pdf
+        git add rulebook.pdf
         git add policy.pdf
         git config --local user.email "3rdJCG@gmail.com"
         git config --local user.name "3rdJCG"
-        git commit -m "Generate main.pdf" -a
+        git commit -m "Generate rulebook.pdf and policy.pdf" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
